@@ -53,4 +53,7 @@ definitions:
         description: "Price"
       description:
         type: "string"
-        description: "Description"
+        description: "Product Description"
+      shortDescription:
+        type: "string"
+        description: "Short Product Description"
